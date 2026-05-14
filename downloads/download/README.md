@@ -7,7 +7,7 @@
 | Property | Value |
 |----------|-------|
 | **Original File** | `download` |
-| **Total Size** | **38 parts** - **3341.26 MB** |
+| **Total Size** | **2 parts** - **95.98 MB** |
 | **Status** | **Complete (100%)** |
 | **Password Protected** | **NO** |
 
@@ -18,43 +18,7 @@
 | # | File | Link |
 |---|------|------|
 | 1 | `download.z01` | [Download](https://github.com/ArashTheArcher10/yd_free/raw/main/downloads/download/download.z01) |
-| 2 | `download.z02` | [Download](https://github.com/ArashTheArcher10/yd_free/raw/main/downloads/download/download.z02) |
-| 3 | `download.z03` | [Download](https://github.com/ArashTheArcher10/yd_free/raw/main/downloads/download/download.z03) |
-| 4 | `download.z04` | [Download](https://github.com/ArashTheArcher10/yd_free/raw/main/downloads/download/download.z04) |
-| 5 | `download.z05` | [Download](https://github.com/ArashTheArcher10/yd_free/raw/main/downloads/download/download.z05) |
-| 6 | `download.z06` | [Download](https://github.com/ArashTheArcher10/yd_free/raw/main/downloads/download/download.z06) |
-| 7 | `download.z07` | [Download](https://github.com/ArashTheArcher10/yd_free/raw/main/downloads/download/download.z07) |
-| 8 | `download.z08` | [Download](https://github.com/ArashTheArcher10/yd_free/raw/main/downloads/download/download.z08) |
-| 9 | `download.z09` | [Download](https://github.com/ArashTheArcher10/yd_free/raw/main/downloads/download/download.z09) |
-| 10 | `download.z10` | [Download](https://github.com/ArashTheArcher10/yd_free/raw/main/downloads/download/download.z10) |
-| 11 | `download.z11` | [Download](https://github.com/ArashTheArcher10/yd_free/raw/main/downloads/download/download.z11) |
-| 12 | `download.z12` | [Download](https://github.com/ArashTheArcher10/yd_free/raw/main/downloads/download/download.z12) |
-| 13 | `download.z13` | [Download](https://github.com/ArashTheArcher10/yd_free/raw/main/downloads/download/download.z13) |
-| 14 | `download.z14` | [Download](https://github.com/ArashTheArcher10/yd_free/raw/main/downloads/download/download.z14) |
-| 15 | `download.z15` | [Download](https://github.com/ArashTheArcher10/yd_free/raw/main/downloads/download/download.z15) |
-| 16 | `download.z16` | [Download](https://github.com/ArashTheArcher10/yd_free/raw/main/downloads/download/download.z16) |
-| 17 | `download.z17` | [Download](https://github.com/ArashTheArcher10/yd_free/raw/main/downloads/download/download.z17) |
-| 18 | `download.z18` | [Download](https://github.com/ArashTheArcher10/yd_free/raw/main/downloads/download/download.z18) |
-| 19 | `download.z19` | [Download](https://github.com/ArashTheArcher10/yd_free/raw/main/downloads/download/download.z19) |
-| 20 | `download.z20` | [Download](https://github.com/ArashTheArcher10/yd_free/raw/main/downloads/download/download.z20) |
-| 21 | `download.z21` | [Download](https://github.com/ArashTheArcher10/yd_free/raw/main/downloads/download/download.z21) |
-| 22 | `download.z22` | [Download](https://github.com/ArashTheArcher10/yd_free/raw/main/downloads/download/download.z22) |
-| 23 | `download.z23` | [Download](https://github.com/ArashTheArcher10/yd_free/raw/main/downloads/download/download.z23) |
-| 24 | `download.z24` | [Download](https://github.com/ArashTheArcher10/yd_free/raw/main/downloads/download/download.z24) |
-| 25 | `download.z25` | [Download](https://github.com/ArashTheArcher10/yd_free/raw/main/downloads/download/download.z25) |
-| 26 | `download.z26` | [Download](https://github.com/ArashTheArcher10/yd_free/raw/main/downloads/download/download.z26) |
-| 27 | `download.z27` | [Download](https://github.com/ArashTheArcher10/yd_free/raw/main/downloads/download/download.z27) |
-| 28 | `download.z28` | [Download](https://github.com/ArashTheArcher10/yd_free/raw/main/downloads/download/download.z28) |
-| 29 | `download.z29` | [Download](https://github.com/ArashTheArcher10/yd_free/raw/main/downloads/download/download.z29) |
-| 30 | `download.z30` | [Download](https://github.com/ArashTheArcher10/yd_free/raw/main/downloads/download/download.z30) |
-| 31 | `download.z31` | [Download](https://github.com/ArashTheArcher10/yd_free/raw/main/downloads/download/download.z31) |
-| 32 | `download.z32` | [Download](https://github.com/ArashTheArcher10/yd_free/raw/main/downloads/download/download.z32) |
-| 33 | `download.z33` | [Download](https://github.com/ArashTheArcher10/yd_free/raw/main/downloads/download/download.z33) |
-| 34 | `download.z34` | [Download](https://github.com/ArashTheArcher10/yd_free/raw/main/downloads/download/download.z34) |
-| 35 | `download.z35` | [Download](https://github.com/ArashTheArcher10/yd_free/raw/main/downloads/download/download.z35) |
-| 36 | `download.z36` | [Download](https://github.com/ArashTheArcher10/yd_free/raw/main/downloads/download/download.z36) |
-| 37 | `download.z37` | [Download](https://github.com/ArashTheArcher10/yd_free/raw/main/downloads/download/download.z37) |
-| 38 | `download.zip` | [Download](https://github.com/ArashTheArcher10/yd_free/raw/main/downloads/download/download.zip) |
+| 2 | `download.zip` | [Download](https://github.com/ArashTheArcher10/yd_free/raw/main/downloads/download/download.zip) |
 
 ---
 
