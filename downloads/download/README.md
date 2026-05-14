@@ -7,7 +7,7 @@
 | Property | Value |
 |----------|-------|
 | **Original File** | `download` |
-| **Total Size** | **2 parts** - **95.98 MB** |
+| **Total Size** | **15 parts** - **1319.64 MB** |
 | **Status** | **Complete (100%)** |
 | **Password Protected** | **NO** |
 
@@ -18,7 +18,20 @@
 | # | File | Link |
 |---|------|------|
 | 1 | `download.z01` | [Download](https://github.com/ArashTheArcher10/yd_free/raw/main/downloads/download/download.z01) |
-| 2 | `download.zip` | [Download](https://github.com/ArashTheArcher10/yd_free/raw/main/downloads/download/download.zip) |
+| 2 | `download.z02` | [Download](https://github.com/ArashTheArcher10/yd_free/raw/main/downloads/download/download.z02) |
+| 3 | `download.z03` | [Download](https://github.com/ArashTheArcher10/yd_free/raw/main/downloads/download/download.z03) |
+| 4 | `download.z04` | [Download](https://github.com/ArashTheArcher10/yd_free/raw/main/downloads/download/download.z04) |
+| 5 | `download.z05` | [Download](https://github.com/ArashTheArcher10/yd_free/raw/main/downloads/download/download.z05) |
+| 6 | `download.z06` | [Download](https://github.com/ArashTheArcher10/yd_free/raw/main/downloads/download/download.z06) |
+| 7 | `download.z07` | [Download](https://github.com/ArashTheArcher10/yd_free/raw/main/downloads/download/download.z07) |
+| 8 | `download.z08` | [Download](https://github.com/ArashTheArcher10/yd_free/raw/main/downloads/download/download.z08) |
+| 9 | `download.z09` | [Download](https://github.com/ArashTheArcher10/yd_free/raw/main/downloads/download/download.z09) |
+| 10 | `download.z10` | [Download](https://github.com/ArashTheArcher10/yd_free/raw/main/downloads/download/download.z10) |
+| 11 | `download.z11` | [Download](https://github.com/ArashTheArcher10/yd_free/raw/main/downloads/download/download.z11) |
+| 12 | `download.z12` | [Download](https://github.com/ArashTheArcher10/yd_free/raw/main/downloads/download/download.z12) |
+| 13 | `download.z13` | [Download](https://github.com/ArashTheArcher10/yd_free/raw/main/downloads/download/download.z13) |
+| 14 | `download.z14` | [Download](https://github.com/ArashTheArcher10/yd_free/raw/main/downloads/download/download.z14) |
+| 15 | `download.zip` | [Download](https://github.com/ArashTheArcher10/yd_free/raw/main/downloads/download/download.zip) |
 
 ---
 
