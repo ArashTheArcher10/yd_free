@@ -1,3 +1,2 @@
-# Downloaded list :
-
-- [download](./download)
+## خالی
+برای شروع به تب Actions رفته و از گردش‌کارهای سمت چپ استفاده کنید
